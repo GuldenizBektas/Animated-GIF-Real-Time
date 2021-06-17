@@ -28,4 +28,17 @@ After execute the program, press key "a" as much as you like
 to save your real-time images, and when you're done press key 
 "q" to kill the program, and the camera.
 
-## Outputs
+# Outputs
+
+## Without converting BGR format images to RGB format.
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/second.gif?raw=true)
+
+## After Converting
+**Me, and my books ❤**
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/eighth.gif?raw=true)
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/fifth.gif?raw=true)
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/ninth.gif?raw=true)
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/seventh.gif?raw=true)
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/sixth.gif?raw=true)
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/tenth.gif?raw=true)
+![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/third.gif?raw=true)
