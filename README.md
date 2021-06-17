@@ -42,3 +42,7 @@ to save your real-time images, and when you're done press key
 ![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/sixth.gif?raw=true)
 ![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/tenth.gif?raw=true)
 ![image](https://github.com/GuldenizBektas/Animated-GIF-Real-Time/blob/main/animated%20gifs/third.gif?raw=true)
+
+# Sources
+- https://www.youtube.com/watch?v=yy6KqVNmWYM&t=3s
+- https://pysource.com/2021/03/25/create-an-animated-gif-in-real-time-with-opencv-and-python/
